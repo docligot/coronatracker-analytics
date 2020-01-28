@@ -1,4 +1,4 @@
-# Coronatracker Dashboard
+# Coronatracker Analytics
 
 ## Background
 
@@ -14,5 +14,7 @@ For other resources, please check the main coronatracker repository [here](https
 
 For information on contributing analysis on coronavirus, please contact: 
 
-* [Dominic Ligot](https://www.linkedin.com/in/docligot/)
+* [Hafeez Nazri](https://www.linkedin.com/in/hafeeznazri/), Lead Data Scientist, Coronatracker Initiative
+* [Dr. Cher Han Lau](https://www.linkedin.com/in/drhanlau/), Lead Coronatracker Initiative
+* [Dominic Ligot](https://www.linkedin.com/in/docligot/), Maintainer, Coronatracker Analytics Repo
 
