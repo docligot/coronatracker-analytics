@@ -10,6 +10,8 @@ This repository is a collaboration point for various analytics on the coronaviru
 
 For other resources, please check the main coronatracker repository [here](https://github.com/theleadio/coronatracker)
 
+**Note: The analysis and information in this repository are voluntary contributions and should not be construed as official health warning or advisory. Please refer official health ministry advisories for updates on the ongoing spread of the disease.**
+
 ## Contact Us
 
 For information on contributing analysis on coronavirus, please contact: 
