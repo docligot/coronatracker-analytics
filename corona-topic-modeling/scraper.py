@@ -23,6 +23,6 @@ if __name__ == '__main__':
     for tweet in query_tweets(query_string, limit):
         tweets.append(tweet.text)
     
-    with open('datasets/data-2.json', 'a') as f:
+    with open('datasets/data.json', 'a') as f:
         f.write(json.dumps(tweets))
 
