@@ -1,0 +1,3 @@
+scrape:
+        query: "Corona virus OR Wuhan OR China OR Virus OR nCoV OR 2019-nCoV"
+        limit: 1
