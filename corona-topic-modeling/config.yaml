@@ -1,3 +1,9 @@
 scrape:
         query: "Corona virus OR Wuhan OR China OR Virus OR nCoV OR 2019-nCoV"
         limit: 1
+
+lda:
+        num_topics: 4
+        num_passes: 10
+        num_words_topics: 4
+        sort_topics: False
