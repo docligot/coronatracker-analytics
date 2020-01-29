@@ -6,7 +6,7 @@ Coronatracker is a worldwide collaboration of data scientists, engineers, applic
 
 ## Analytics
 
-This repository is a collaboration point for various analytics on the coronavirus datasets and information. For other resources, please check the main coronatracker repository [here](https://github.com/theleadio/coronatracker)
+This repository is a collaboration point for various analytics on the coronavirus datasets and information. For other resources, please check the main coronatracker repository [here](https://github.com/theleadio/coronatracker). 
 
 * [Corona Geomap on Plotly](https://github.com/docligot/coronatracker-analytics/tree/master/corona-geomap) by [Chin Hwee Ong](https://github.com/hweecat)
 * [Corona Topic Modeling (Python)](https://github.com/docligot/coronatracker-analytics/tree/master/corona-topic-modeling) by [Renz](https://github.com/renziver)
