@@ -106,7 +106,7 @@ corpus = [dictionary.doc2bow(text) for text in text_data]
 pickle.dump(corpus, open('artifacts/corpus.pkl', 'wb'))
 dictionary.save('artifacts/dictionary.gensim')
 
-#Create and save LDA mode
+#Create and save LDA model
 lda_model = gensim.models.ldamodel.LdaModel(corpus, num_topics = num_topics, id2word=dictionary, passes=num_passes)
 lda_model.save('artifacts/model.gensim')
 topics = lda_model.print_topics(num_words=num_words_topics)
