@@ -1,6 +1,8 @@
 # Wuhan Outbound Flights Analysis
 ### Analyzing outbound flights from Wuhan Tianhe airport WUH ZHHH of a single day
 
+**Cloned from [leebond's work](leebond/Wuhan-zhhh-wuh-outbound-flight-analysis).**
+
 ### Data
 - Each record is a receiver message json row
 - Data contains only messages received on 2 Jan 2020
