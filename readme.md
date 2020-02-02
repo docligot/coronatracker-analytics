@@ -12,6 +12,8 @@ This repository is a collaboration point for various analytics on the coronaviru
 * [Corona Topic Modeling (Python)](https://github.com/docligot/coronatracker-analytics/tree/master/corona-topic-modeling) by [Renz](https://github.com/renziver)
 * [Corona Wordcloud](https://github.com/docligot/coronatracker-analytics/tree/master/corona-wordcloud) by [Sani](https://github.com/khursani8)
 * [Corona Seir Model](https://github.com/docligot/coronatracker-analytics/tree/master/corona-seir-model) by [leebond](https://github.com/leebond/)
+* [Base Fatalities Estimation](https://github.com/docligot/coronatracker-analytics/tree/master/corona-base-fatalities) by [docligot](https://github.com/docligot/)
+
 
 **Note: The analysis and information in this repository are voluntary contributions and should not be construed as official health warning or advisory. Please refer official health ministry advisories for updates on the ongoing spread of the disease.**
 
