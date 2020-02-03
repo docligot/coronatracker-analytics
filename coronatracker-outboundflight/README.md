@@ -4,7 +4,7 @@ data extraction from open flight data and visualize the outbound flight
 
 # Wuhan Outbound Flights analysis
 
-![Outbound flight dashboard](/images/coronaTracker-OutboundFlightDashboard.png)
+![alt text](https://github.com/docligot/coronatracker-analytics/blob/master/coronatracker-outboundflight/images/coronaTracket-OutboundFlightDashboard.png "Outbound Flight Dashboard")
 
 
 **Objective**: to visualize the outbound flight and enable in-depth analysis
