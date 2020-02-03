@@ -28,7 +28,7 @@ Given a base probability (e.g. JHU total), what case level justifies the current
 
 ## Calculation
 
-Please find the spreadsheet [here](https://drive.google.com/file/d/1LRuIBh5yRFRb8JiDAvMmY1Yuei_icbq2/view?usp=sharing).
+Please find the spreadsheet [here](https://docs.google.com/spreadsheets/d/1LRuIBh5yRFRb8JiDAvMmY1Yuei_icbq2/edit#gid=95220160).
 
 ## Caveat
 
