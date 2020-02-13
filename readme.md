@@ -25,3 +25,6 @@ For information on contributing analysis on coronavirus, please contact:
 * [Dr. Cher Han Lau](https://www.linkedin.com/in/drhanlau/), Lead Coronatracker Initiative
 * [Dominic Ligot](https://www.linkedin.com/in/docligot/), Maintainer, Coronatracker Analytics Repo
 
+## License
+
+This work is provided under the terms of Creative Commons Attribution 4.0 International ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)) license. 
