@@ -17,3 +17,13 @@ Current pickup: March 7 - ?
 ## Health Commodities vs. Coronavirus (Philippines
 
 ![alt text](https://github.com/docligot/coronatracker-analytics/blob/master/corona-search-trends/commodities_corona.png "Commodities")
+
+## Caveat
+
+**Note: These calculations are based off social listening and other non-sanctioned sources. This should not be construed as official health advisory.**
+
+## Contact Us
+
+Message me on Linked-In
+
+* [Dominic Ligot](https://www.linkedin.com/in/docligot/)
