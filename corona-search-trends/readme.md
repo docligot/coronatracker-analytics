@@ -16,7 +16,7 @@ Lining up [DOH case dates](https://github.com/docligot/coronatracker-analytics/b
 ![alt text](https://github.com/docligot/coronatracker-analytics/blob/master/corona-search-trends/pneumonia_fever_corona_cases.png "Cases vs. Coronavirus")
 
 
-## Health Commodities vs. Coronavirus (Philippines
+## Health Commodities vs. Coronavirus (Philippines)
 
 Comparing commodity searches with coronavirus. 
 
