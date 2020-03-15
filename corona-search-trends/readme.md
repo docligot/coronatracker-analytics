@@ -11,10 +11,14 @@ Current pickup: March 7 - ?
 
 ## DOH Cases vs. Pneumonia, Fever, Coronavirus (Philippines)
 
+Lining up [DOH case dates](https://github.com/docligot/coronatracker-analytics/blob/master/corona-search-trends/datasets/Cases%20as%20of%20March%2015%2C%202020.pdf) with google searches. 
+
 ![alt text](https://github.com/docligot/coronatracker-analytics/blob/master/corona-search-trends/pneumonia_fever_corona_cases.png "Cases vs. Coronavirus")
 
 
 ## Health Commodities vs. Coronavirus (Philippines
+
+Comparing commodity searches with coronavirus. 
 
 ![alt text](https://github.com/docligot/coronatracker-analytics/blob/master/corona-search-trends/commodities_corona.png "Commodities")
 
