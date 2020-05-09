@@ -16,8 +16,11 @@ This repository is a collaboration point for various analytics on the coronaviru
 * [Outbound Flight Visualization](https://github.com/docligot/coronatracker-analytics/tree/master/coronatracker-outboundflight) by [Kim](https://github.com/LutherTeh)
 * [Corona Search Trends](https://github.com/docligot/coronatracker-analytics/tree/master/corona-search-trends) by [docligot](https://github.com/docligot/)
 
-**Note: The analysis and information in this repository are voluntary contributions and should not be construed as official health warning or advisory. Please refer official health ministry advisories for updates on the ongoing spread of the disease.**
+## Research Phase 2
 
+* [Cultural Dimensions](https://github.com/docligot/coronatracker-analytics/tree/master/corona-cultural) to discuss the differentiation of COVID results by country on a cultural (Hofstede) and Psychographic (MBTI, OCEAN) level. 
+
+**Note: The analysis and information in this repository are voluntary contributions and should not be construed as official health warning or advisory. Please refer official health ministry advisories for updates on the ongoing spread of the disease.**
 ## Contact Us
 
 For information on contributing analysis on coronavirus, please contact: 
